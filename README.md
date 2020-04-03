@@ -1,5 +1,9 @@
 # Image super resolution practice with Intel OpenVINO
 
+This project is designed as practicing challenge for everyone interested in Intel OpenVINO toolkit. It demonstrates
+* OpenVINO's super resolution network adopted to work on varying input resolutions.
+* Complete sample to upscale a single image (x3)
+
 ## Project structute
 
 * `data` - a folder with visual data (images, video)
